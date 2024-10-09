@@ -6,14 +6,13 @@ The Education Management System (EMS) is a full-stack application designed to st
 ⚙️ Installation & Setup
 Backend Setup
 1 Clone the repository:
-2 git clone https://github.com/your-username/education-management-system.git
-3 cd education-management-system/backend
-4 Install dependencies:
+2 cd education-management-system/backend
+3 Install dependencies:
   npm install
-5 Create a .env file in the backend directory and add the following:
-6 .env
-7 Start the backend server:
-8 npm run dev
+4 Create a .env file in the backend directory and add the following:
+5 .env
+6 Start the backend server:
+7 npm run dev
 
 
 Frontend Setup
